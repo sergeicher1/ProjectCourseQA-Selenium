@@ -5,8 +5,6 @@ Read Me File
 
 Author: Sergei Chernyahovsky 
 
-Date: 06\08\2022
-
 The purpose of the program: is to execute different test cases and store:
 
 	Screenshots, Logs, and Final Results Log for fast annalizing of the test results.
