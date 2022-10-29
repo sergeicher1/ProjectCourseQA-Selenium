@@ -1,8 +1,6 @@
 # Final ProjectCourseQA - Technion
 execute different test cases and store Screenshots Logs and Final Results Log for fast annalizing of the test results.
 
-Read Me File 
-
 Author: Sergei Chernyahovsky 
 
 The purpose of the program: is to execute different test cases and store:
